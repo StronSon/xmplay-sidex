@@ -7,7 +7,7 @@ https://iili.io/li1L5x.gif
 SIDex Input Plug-in
 =============================
 
-This is brand spanking new plug-in to play SID files using the libsidplayfp-2.3.0 library.
+This is brand spanking new plug-in to play SID files using the libsidplayfp-2.3.1 library.
 
 - Fade-in support to try and remove clicks
 - SLDB, STIL, BUGlist from HVSC supported
