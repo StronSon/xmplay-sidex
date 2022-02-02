@@ -1,0 +1,2 @@
+#define XMPSID_API __declspec(dllexport)
+#define XMPSID_API __declspec(dllimport)
