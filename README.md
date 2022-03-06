@@ -1,7 +1,7 @@
 # xmplay-sidex-c64-sid-music-player-plugin
 xmplay-sidex c64 sid music player plugin
 
-https://iili.io/li1L5x.gif
+<img src="https://iili.io/li1L5x.gif">
 
 
 SIDex Input Plug-in
